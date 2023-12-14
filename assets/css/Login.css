@@ -1,0 +1,39 @@
+.container {
+    padding-left: 50px;
+    text-align: center;
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-bottom: 5%;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    border-radius: 10px;
+    height: 350px; 
+}
+
+img {
+    width: 30%;
+    border-radius: 5px;
+}
+
+button {
+    width: 60px;
+    color: white;
+    border-radius: 5px;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: outset;
+
+}
+
+.login {
+    background-color: rgb(0, 0, 0);
+}
+
+button:hover {
+    background-color: gray;
+}
+
+.form-control {
+    width: 70%;
+}
